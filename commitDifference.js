@@ -6,3 +6,6 @@ console.log("fifth commit");
 console.log("not present on remote");
 console.log("locally ssave");
 console.log("feature branch added");
+console.log("latest commit");
+console.log("latest commit with new line");
+console.log("latest commit 2");
